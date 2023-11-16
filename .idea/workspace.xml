@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a9395a7-09f1-4928-9a39-d85f8e207933" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2YGiaThNYlDAtL4C7DOaHJziiPh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/talha/IdeaProjects/Coding_Club_ISI",
+    "onboarding.tips.debug.path": "C:/Users/talha/IdeaProjects/Coding_Club_ISI/src/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\talha\IdeaProjects\Coding_Club_ISI" />
+      <recent name="C:\Users\talha\IdeaProjects\Coding_Club_ISI\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\talha\IdeaProjects\Coding_Club_ISI\src\main\java\ObjectOrintedAssigments\AbstractionAndEncapsulation\HumanClassProject" />
+      <recent name="C:\Users\talha\IdeaProjects\Coding_Club_ISI\src\ManagingInheritance" />
+      <recent name="C:\Users\talha\IdeaProjects\Coding_Club_ISI\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HumanMain">
+    <configuration name="HumanMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrintedAssigments.AbstractionAndEncapsulation.HumanClassProject.HumanMain" />
+      <module name="CodingClubCurriculum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOrintedAssigments.AbstractionAndEncapsulation.HumanClassProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Step1_TransferFundsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodingClubCurriculum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOrintedAssigments.Polymorphisim.AccountingProjectPart2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ObjectOrintedAssigments.Polymorphisim.AccountingProjectPart2.test" />
+      <option name="MAIN_CLASS_NAME" value="ObjectOrintedAssigments.Polymorphisim.AccountingProjectPart2.test.Step1_TransferFundsTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HumanMain" />
+        <item itemvalue="JUnit.Step1_TransferFundsTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a9395a7-09f1-4928-9a39-d85f8e207933" name="Changes" comment="" />
+      <created>1700158384410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700158384410</updated>
+    </task>
+    <servers />
+  </component>
+</project>
